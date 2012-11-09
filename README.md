@@ -5,9 +5,9 @@ A mini bookmarklet that forces the base body font of the current web site to be 
 
 For now, it seems the best option is to:
 
- 1.  Copy the content below
- 2.  Add a new bookmark to this page
- 3.  Edit the URL to the bookmark, and paste the code in there
+   1.  Copy the content below
+   2.  Add a new bookmark to this page
+   3.  Edit the URL to the bookmark, and paste the code in there
 
  Code:
 
