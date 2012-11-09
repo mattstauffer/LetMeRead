@@ -8,8 +8,8 @@
 		}
 	}  
 	/* @todo: Crap, what about if it's set on the rest of the elements? body *? This is more complicated than I thought. */
-	/* @todo: Haven't even tested this, but need to get back to work. So.. test. */
 	css('body', 'font-size', '14px!important');
 	css('body', 'color', '#333!important');
 	css('body', 'background', '#fff!important');
+	css('body', 'line-height', '1.6!important');
 })();
