@@ -1,4 +1,4 @@
-function(){ 
+(function(){ 
 	/* http://stackoverflow.com/questions/566203/changing-css-values-with-javascript */
 	function css(selector, property, value) {
 		for (var i=0; i<document.styleSheets.length;i++) {/*Loop through all styles*/
@@ -12,4 +12,4 @@ function(){
 	css('body', 'font-size', '14px!important');
 	css('body', 'color', '#333!important');
 	css('body', 'background', '#fff!important');
-};
+})();
